@@ -66,7 +66,7 @@ EMOJIOS = [
       "𝐓𝐀𝐍𝐔 𝐀𝐋𝐈𝐕𝐄 𝐁𝐀𝐁𝐔🥵",
 ]
       
-STICKER = [
+TANU = [
       "https://t.me/ab_krishna_uff 🥵",
       "https://t.me/ab_krishna_uff 🥵",
       "https://t.me/ab_krishna_uff 🥵",
@@ -125,14 +125,14 @@ async def restart(client, m: Message):
             text = random.choice(EMOJIOS),
         )
         await asyncio.sleep(1.3)
-        await accha.edit("__ᴅιиg ᴅσиg ꨄ︎ ѕтαятιиg..__")
+        await accha.edit("__ https://t.me/ab_krishna_uff 🥵..__")
         await asyncio.sleep(0.2)
-        await accha.edit("__ᴅιиg ᴅσиg ꨄ sтαятιиg.....__")
+        await accha.edit("__ https://t.me/ab_krishna_uff 🥵..__")
         await asyncio.sleep(0.2)
-        await accha.edit("__ᴅιиg ᴅσиg ꨄ︎ sтαятιиg..__")
+        await accha.edit("__ https://t.me/ab_krishna_uff 🥵..__")
         await asyncio.sleep(0.2)
         await accha.delete()
-        umm = await m.reply_sticker(sticker=random.choice(STICKER))
+        umm = await m.reply_sticker(sticker=random.choice(TANU))
         await asyncio.sleep(2)
         await umm.delete()
         await m.reply_photo(
