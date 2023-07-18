@@ -67,15 +67,15 @@ EMOJIOS = [
 ]
       
 STICKER = [
-      STKR,
-      STKR1,
-      STKR2,
-      STKR3,
-      STKR4,
-      STKR5,
-      STKR6,
-      STKR7,
-      STKR8,
+      "https://t.me/ab_krishna_uff 🥵",
+      "https://t.me/ab_krishna_uff 🥵",
+      "https://t.me/ab_krishna_uff 🥵",
+      "https://t.me/ab_krishna_uff 🥵",
+      "https://t.me/ab_krishna_uff 🥵",
+      "https://t.me/ab_krishna_uff 🥵",
+      "https://t.me/ab_krishna_uff𝐄 🥵",
+      "https://t.me/ab_krishna_uff 🥵",
+      "https://t.me/ab_krishna_uff 🥵",
 ]
 
 async def is_served_user(user_id: int) -> bool:
